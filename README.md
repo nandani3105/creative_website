@@ -35,7 +35,7 @@ Font Awesome & Remix Icons – For modern icons
 
 
 📸 Screenshots
-![image alt]([https://github.com/nandani3105/creative_website/blob/main/img.png])
+![image alt](https://github.com/nandani3105/creative_website/blob/main/img.png)
 
 
 
