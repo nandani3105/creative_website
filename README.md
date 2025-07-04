@@ -1,6 +1,7 @@
 # creative_website
 
-Food. - Restaurant Web Interface
+#Food. - Restaurant Web Interface
+
 A modern, animated, and fully responsive food website built using HTML, CSS, and JavaScript. This project showcases a restaurant-style UI with menu cards, reviews, and special team sections. Smooth scrolling and animations are powered by Locomotive Scroll and GSAP libraries.
 
 🚀 Features
@@ -16,6 +17,8 @@ A modern, animated, and fully responsive food website built using HTML, CSS, and
 
 📱 Mobile and tablet responsive with custom media queries
 
+
+
 🛠️ Technologies Used
 HTML5 – Page structure
 
@@ -29,8 +32,10 @@ Locomotive Scroll – Smooth scrolling & parallax
 
 Font Awesome & Remix Icons – For modern icons
 
+
+
 📸 Screenshots
-Include screenshots or a live preview link if hosted (e.g., GitHub Pages or Netlify)
+
 
 📂 Folder Structure
 bash
@@ -43,12 +48,13 @@ Edit
 ├── /image
 │   ├── burger.jpg, pasta.jpg, ...
 └── /fonts, /assets (optional)
-📦 Setup
-bash
-Copy
-Edit
+
+
+
 # Clone the repository
 git clone https://github.com/yourusername/food-website.git
+
+
 
 # Open in your browser
 Open index.html in any modern browser
@@ -56,6 +62,8 @@ Open index.html in any modern browser
 Icons: Font Awesome, Remix Icons
 
 Animation libraries: GSAP and Locomotive Scroll
+
+
 
 👩‍💻 Author
 Nandani Kumari
