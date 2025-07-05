@@ -40,12 +40,7 @@ Font Awesome & Remix Icons – For modern icons
 
 
 
-# 📂 Folder Structure
-bash
-Copy
-Edit
-
-# 📁 your-project-folder/
+# 📁 Project-folder/
 ├── index.html
 ├── style.css
 ├── script.js
@@ -65,5 +60,5 @@ Animation libraries: GSAP and Locomotive Scroll
 
 
 # 👩‍💻 Author
-# Nandani Kumari
+Nandani Kumari
 “Design by Nandani”
